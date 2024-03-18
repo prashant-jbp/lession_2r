@@ -9,3 +9,9 @@
      <hr>
 
  
+```java
+class Test{
+public show(){
+System.out.println("jbp");
+}
+```
